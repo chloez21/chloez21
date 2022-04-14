@@ -4,7 +4,7 @@
 - I have solid knowledge in HTML/CSS/JavaScript, TypeScript, and Sass. I am familiar with frameworks such as React, Redux, Bootstrap, and Express.js. 
 - I am comfortable working under Linux/Unix and familiar with REST API and CI/CD concepts and tools (Git, Docker, Postman, etc)
 
-- 🌱 I’m currently learning Spring Boot.
+- 🌱 I’m currently learning Java Spring.
 - 📷 I love photography, instagram: xperimentalz
 
 <!--
