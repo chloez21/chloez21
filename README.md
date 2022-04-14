@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning Java Spring.
 - 📷 I love photography, instagram: xperimentalz
-- ⛰️ and Hiking!
 
 <!--
 **chloez21/chloez21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
