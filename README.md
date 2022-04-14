@@ -5,7 +5,7 @@
 - I am comfortable working under Linux/Unix and familiar with REST API and CI/CD concepts and tools (Git, Docker, Postman, etc)
 
 - 🌱 I’m currently learning Spring Boot.
-- 📷 I love photography, find me here: instagram: xperimentalz
+- 📷 I love photography, instagram: xperimentalz
 
 <!--
 **chloez21/chloez21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
