@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I am a full-stack developer with one year of experience.
-- I have solid knowledge in Java, Python, HTML/CSS/JavaScript, TypeScript. I am familiar with frameworks such as React, Redux, Django, and Express.js. 
+- I am a full-stack developer with 1.5 year of experience.
+- I have solid knowledge in Java, Python, JavaScript, TypeScript. I am familiar with frameworks such as React, Redux, Spring Boot, Django, and Express.js. 
 - I am comfortable working under Linux/Unix and familiar with REST API and CI/CD concepts and tools (Git, Docker, Postman, etc)
 
 - I love photography, music, outdoor activities.
