@@ -3,12 +3,15 @@
 I am Chloe, a forward-thinking master's student majoring in software engineering and a determined career switcher with 1.5 years of experience in software development.
 
 🔍 Skills Snapshot:
+
 Equipped with solid knowledge in Java, Python, and JavaScript, I am well-versed in frameworks like React, Redux, Spring Boot, Django, and Express.js. Comfortable working under Linux/Unix, I possess a deep understanding of REST API and am familiar with CI/CD concepts and tools such as Git, Docker, and Postman.
 
 🛠️ Professional Experience:
+
 In addition to my software development internship, I've undertaken personal projects, showcasing my innovation and creativity. From conceptualization to implementation, my contributions reflect my ability to deliver impactful solutions within a team setting.
 
 🌟 Beyond Code:
+
 Beyond the tech realm, I am passionate about photography, music, and outdoor activities.
 
 Let's connect and explore how my diverse experience and skills can contribute to your organization! 🤝
