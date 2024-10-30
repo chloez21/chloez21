@@ -4,7 +4,7 @@ I am a software developer currently pursuing my master's degree in software engi
 
 🔍 Skills Snapshot:
 
-Equipped with solid knowledge in Java, Python, and JavaScript, I am well-versed in frameworks like React, Redux, Spring Boot, Django, and Express.js. Comfortable working under Linux/Unix, I possess a deep understanding of REST API and am familiar with CI/CD concepts and tools such as Git, Docker, and Postman.
+Equipped with solid knowledge of Java, Python, and JavaScript, I am well-versed in frameworks like React, Spring Boot, Django, ASP.NET Core and Express.js. Comfortable working under Linux/Unix, I possess a deep understanding of REST APIs and am familiar with CI/CD concepts and tools.
 
 🌟 Beyond Code:
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 Programming Languages: JavaScript, Java, Python, C#, C, TypeScript
 
-Tools and Frameworks: React, Redux, Spring Boot, Express.js, Django, Flask, .NET
+Tools and Frameworks: React, Redux, Spring Boot, Express.js, Django, Flask, ASP.NET Core
 
 Databases: MongoDB, MySQL, PostgreSQL
 
